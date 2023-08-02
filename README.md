@@ -1,2 +1,2 @@
 # Reproductor-de-musica
-Reproductor de música desarrolado en Jav. Proyecto de Universidad.
+Reproductor de música desarrollado en Java. Proyecto de Universidad.
